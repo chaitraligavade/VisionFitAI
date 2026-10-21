@@ -1,10 +1,16 @@
-# Virtual Environment folders
-venv/
+# Python virtual environment
+.venv/
 mp_env/
 
-# Dependency list
-requirements.txt
+# Python cache files
+__pycache__/
+*.py[cod]
 
-# Configuration and large files
-.vscode/
-*.mp4
+# Node dependencies and build output
+node_modules/
+dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
