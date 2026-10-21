@@ -79,13 +79,8 @@ Virtual-Trial-Room/
 
 ## My Role
 
-Built as part of my undergraduate coursework at Vidyalankar Institute of Technology. Designed and developed the computer vision pipeline, clothing overlay logic, and pose estimation integration.
+Built as part of my miniproject at Kolhapur Institute of Technology's College of Engineering,Kolhapur. Designed and developed the computer vision pipeline, clothing overlay logic, and pose estimation integration.
 
----
 
-## Future Scope
 
-- Web-based version (no install needed)
-- Support for full outfits, accessories, and shoes
-- Size recommendation based on body measurements
-- Integration with live e-commerce product catalogues
+
